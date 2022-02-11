@@ -76,7 +76,7 @@
         <div class="customer-grid">
           <div class="customer">
             <img width=90% src="https://i.imgur.com/06Tta8T.png" alt="brave search site">
-            <p class='mt-3'><a href="https://search.brave.com/"><strong>Brave Search</strong></a> - un moteur de recherche qui ne vous suit pas, ni vos requêtes.</p>
+            <p class='mt-3'><a href="https://search.brave.com/"><strong>Brave Search</strong></a> - un moteur de recherche qui ne vous suit pas</p>
           </div>
           <div class="customer">
             <img width=90% src="https://i.imgur.com/vRq5Ltl.png" alt="chess.com site">
