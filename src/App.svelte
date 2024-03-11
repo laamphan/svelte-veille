@@ -182,7 +182,7 @@
         <p>En gros, c'est ça ! <br>
         Vous avez un jeu de Tic Tac Toe jouable fonctionnel ;)</p>
         <div id="codesandbox">
-        <iframe src="https://codesandbox.io/embed/tictactoe-u24zx?fontsize=12&hidenavigation=1&module=%2FApp.svelte&theme=dark&view=split&hidedevtools=1"
+        <iframe src="https://codesandbox.io/embed/tictactoe-6kx5mh?fontsize=12&hidenavigation=1&module=%2FApp.svelte&theme=dark&view=split&hidedevtools=1"
         style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
         title="TicTacToe"
         allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
